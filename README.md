@@ -1,2 +1,0 @@
-# OnlyMCPre
-OnlyMC -Network
